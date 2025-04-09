@@ -5,3 +5,4 @@
 export * from './lib/directives';
 export * from './lib/components/misc';
 export * from './lib/components/avatar';
+export * from './lib/services';
