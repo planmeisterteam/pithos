@@ -1,5 +1,5 @@
 {
-  "name": "@planmeister/pithos",
+  "name": "@planmeisterteam/pithos",
   "version": "1.0.0",
   "peerDependencies": {
     "@angular/common": "^20.1.2",
